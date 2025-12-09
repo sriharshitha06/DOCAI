@@ -1,0 +1,6 @@
+open AI - llm
+langchain - framework
+pinecone - database  (cloud based)
+flask - ui
+GitHub
+aws for deploying
